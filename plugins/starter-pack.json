@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "orbitbit.starter-pack",
+  "name": "Starter Mission Pack",
+  "author": "OrbitBit contributors",
+  "missions": [
+    { "id": "tidy-downloads", "title": "整理下载文件夹", "description": "删掉一个不再需要的文件，让轨道更轻盈。", "durationMinutes": 3, "reward": 1 },
+    { "id": "water-break", "title": "喝一杯水", "description": "离开屏幕片刻，补充一次地球补给。", "durationMinutes": 2, "reward": 1 },
+    { "id": "one-small-task", "title": "完成一件小事", "description": "选择一件五分钟内能结束的小任务。", "durationMinutes": 5, "reward": 1 }
+  ],
+  "messages": [
+    "完成一个小任务，点亮星图！",
+    "慢慢来，微小进度也会发光。",
+    "今天的轨道很稳定，我们出发吧。"
+  ]
+}
